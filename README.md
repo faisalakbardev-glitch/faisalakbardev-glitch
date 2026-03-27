@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](/image/Gemini_Generated_Image_fvql5lfvql5lfvql.png)
+![image](/image/github-header-banner.png)
 <!--
 **faisalakbardev-glitch/faisalakbardev-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
