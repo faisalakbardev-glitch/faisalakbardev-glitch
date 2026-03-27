@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Code](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjVybjhvbnA4OG1uNzExM251cXIxeTdnbzl6am5sYjl4cmptb2RlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif)
+![image](/image/Gemini_Generated_Image_fvql5lfvql5lfvql.png)
 <!--
 **faisalakbardev-glitch/faisalakbardev-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
