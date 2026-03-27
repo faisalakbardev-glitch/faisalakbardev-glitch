@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Code](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjVybjhvbnA4OG1uNzExM251cXIxeTdnbzl6am5sYjl4cmptb2RlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif)
 <!--
 **faisalakbardev-glitch/faisalakbardev-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Framework [Laravel](https://laravel.com/)
+🔭 I’m currently working on **Web Apps**
