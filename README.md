@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Junior Web Developer with a strong interest in creating clean, responsive, and functional websites. Currently learning and growing in front-end and back-end dev
 ## Hi there 👋
 ![image](/image/github-header-banner.png)
 
